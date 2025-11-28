@@ -13,7 +13,7 @@ MIT License – frei für Forschung.
 Diese Pionierarbeit präsentiert eine neuartige iterative Methode zur Rekonstruktion fundamentaler Physik-Parameter aus beobachtbaren Konstanten des Standardmodells.
 
 ## 🎯 Ergebnisse
-
+![](scripts/robust_results/final_analysis_plots.png)
 ### 🔥 Entdeckte Neue Physik:
 - **Negative fundamentale Kopplung** (g = -0.311)
 - **Extreme Flavor-Mischung** (Φ = 31.43)
