@@ -1,0 +1,69 @@
+{
+  "run_id": 6,
+  "timestamp": "2025-11-27T15:46:46.306757",
+  "strategy": {
+    "method": "de",
+    "strategy": "rand2bin",
+    "mutation": [
+      0.5,
+      0.9
+    ],
+    "maxiter": 800
+  },
+  "parameters": [
+    0.3107529736560432,
+    1.0716784752809096,
+    -9.11475959687571e-08,
+    -9.619629038963242e-05,
+    -0.0189723140495178
+  ],
+  "error": 0.0005713504018083333,
+  "predictions": {
+    "fine_structure": 0.00729722956692069,
+    "fermi_constant": 1.1749124554234277e-05,
+    "weak_angle": 0.23321970993643254,
+    "higgs_vev": 246.5907112332598,
+    "up_quark_mass": 2.2124485723736544,
+    "down_quark_mass": 4.691899083777021,
+    "charm_quark_mass": 1267.0801829995003,
+    "strange_quark_mass": 90.65165334567672,
+    "top_quark_mass": 169133.92985345065,
+    "bottom_quark_mass": 4060.53941505973,
+    "electron_mass": 0.5415082427906646,
+    "muon_mass": 103.66696520796879,
+    "tau_mass": 1776.7930981016266,
+    "ckm_12": 0.2341468276999118,
+    "ckm_23": 0.04531335864370399,
+    "ckm_13": 0.00365927589434107,
+    "gravitational_constant": 6.674299999391653e-11,
+    "planck_mass": 1.220909999777434e+19,
+    "cosmological_constant": 1.087476818010774e-122,
+    "dark_matter_density": 0.2639987302089708,
+    "baryon_ratio": 0.05059850150351019
+  },
+  "errors": {
+    "fine_structure": 1.6855751718712018e-05,
+    "fermi_constant": 0.00731645341553972,
+    "weak_angle": 0.008648516289389027,
+    "higgs_vev": 0.0015070740630593565,
+    "up_quark_mass": 0.024281746469284396,
+    "down_quark_mass": 0.004689311301289339,
+    "charm_quark_mass": 0.002299068504330499,
+    "strange_quark_mass": 0.02942555304414652,
+    "top_quark_mass": 0.019513450124923754,
+    "bottom_quark_mass": 0.028579087306284716,
+    "electron_mass": 0.05970520472403104,
+    "muon_mass": 0.018847623782355345,
+    "tau_mass": 3.7651755553795306e-05,
+    "ckm_12": 0.043900257244368246,
+    "ckm_23": 0.08405164219387547,
+    "ckm_13": 0.011006515042954104,
+    "gravitational_constant": 9.114755166729139e-11,
+    "planck_mass": 1.8229516540940775e-10,
+    "cosmological_constant": 0.0004808657989209226,
+    "dark_matter_density": 4.80981450459296e-06,
+    "baryon_ratio": 0.026338772890673275
+  },
+  "mean_error": 0.017650021894792645,
+  "max_error": 0.08405164219387547
+}
