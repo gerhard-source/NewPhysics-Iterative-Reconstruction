@@ -39,7 +39,7 @@ Diese Pionierarbeit präsentiert eine neuartige iterative Methode zur Rekonstruk
 
 ### Installation & Ausführung
 
-1. Klonen: `git clone https://github.com/gerhard-source/NewPhysics.git`
+1. Klonen: `git clone https://github.com/gerhard-source/NewPhysics-Iterative-Reconstruction.git`
 2. Abhängigkeiten: `pip install sympy numpy matplotlib`
 3. Ausführen: `python3 /scripts/9_final_analysis_visualization.py' – Erzeugt Outputs und Plots in /scripts/robust_results.
 
